@@ -68,13 +68,13 @@ Step 5: Type command ```make clean``` for clean up
 -----------------------------------------------------------------------------------------------------------------
 ## Contibutions: ##
 
-**Chirag Khandhar : **
+**Akash Kumar Shetty : **
 Record methods,```dberror```, ```buffer_list```, ```record_scan```  and related documentation
 
-**Akash Tanwani : **
+**Aishwarya Sureban : **
 Schema,  Scan, Attribute, test methods and related documentation
 
-**Gandhali Khedlekar : ** 
+**Siri Chandrashekar : ** 
 Table and Manager functions and related documentation
 
 -----------------------------------------------------------------------------------------------------------------
