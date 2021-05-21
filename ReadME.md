@@ -66,16 +66,5 @@ Step 4: Type command ```make run``` if you are using a Windows machine
 Step 5: Type command ```make clean``` for clean up
 
 -----------------------------------------------------------------------------------------------------------------
-## Contibutions: ##
 
-**Akash Kumar Shetty : **
-Record methods,```dberror```, ```buffer_list```, ```record_scan```  and related documentation
-
-**Aishwarya Sureban : **
-Schema,  Scan, Attribute, test methods and related documentation
-
-**Siri Chandrashekar : ** 
-Table and Manager functions and related documentation
-
------------------------------------------------------------------------------------------------------------------
 
